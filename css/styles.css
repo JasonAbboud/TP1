@@ -12,9 +12,6 @@ table,td,th{
             border-collapse: collapse;
             margin:auto;
 }
-td{
-    text-align: left;
-}
 #titre{
     background-color: black;
     color: white;
@@ -24,7 +21,7 @@ td{
     max-height: 15px;
     font-size: 30px;
 }
-#Sous-titres{
+#Sous-titre{
      text-align: left;
      font-size: 15px;
      padding-top: 10px;
